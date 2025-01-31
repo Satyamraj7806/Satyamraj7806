@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Raj</h1>
 <h3 align="center">A passionate cyber security enthusiast from INDIA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamraj0786&label=Profile%20views&color=0e75b6&style=flat" alt="satyamraj0786" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamraj7806&label=Profile%20views&color=0e75b6&style=flat" alt="satyamraj7806" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamraj0786" alt="satyamraj0786" /></a> </p>
 
