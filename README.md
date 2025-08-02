@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/@SRAJ43187397" target="blank"><img src="https://img.shields.io/twitter/follow/satyamraj78?logo=twitter&style=for-the-badge" alt="satyamraj78" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **0786satyamraj@gmail.com**
 
